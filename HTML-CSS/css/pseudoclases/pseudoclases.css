@@ -1,0 +1,23 @@
+/* Selecciona el primer elemento de la lista y lo pinta de rojo */
+li:first-child {
+    color: red;
+}
+
+/* Selecciona el último elemento de la lista y lo pinta de azul */
+li:last-child {
+    color: blue;
+}
+
+/* Selecciona cualquier elemento de la lista que el usuario esté señalando, no es necesario que le de click, solo pasar el mouse por encima */
+li:hover {
+    color: green;
+}
+/* Selecciona cualquier elemento de la lista que el usuario esté activando (por ejemplo, haciendo clic en él) */
+li:active {
+    color:chartreuse;
+}
+
+/* Selecciona el segundo elemento de la lista y lo pinta de amarillo */
+li:nth-child(2) {
+    color: orange;
+}

@@ -1,0 +1,28 @@
+/* Podemos darle estilos a varias etiquetas, colocando una coma entre ellas. Por ejemplo para estilizar todas las etiquetas h */
+h1,
+h2,
+h3 {
+  color: royalblue;
+}
+
+/*Tambien podemos darle estilos a varias clases, colocando una coma entre ellas. Por ejemplo para estilizar todas las clases .texto */
+.texto1,
+.texto2 {
+  color: red;
+}
+
+/*Tambien podemos darle estilos a varias etiquetas y clases, colocando una coma entre ellas. Por ejemplo para estilizar todas las etiquetas h y todas las clases .texto */
+
+h1,
+h2,
+h3,
+.texto1,
+.texto2 {
+  font-size: 20px;
+  font-family: cursive;
+}
+
+/* Podemos darle estilos a una etiqueda que esta anidada, es decir que se encuentra dentro de otra u otras etiquetas, colocando un espacio entre ellas. Por ejemplo para estilizar los h2 que se encuentran dentro de article y a su vez dentro de section*/
+section article h2 {
+  color: green;
+}

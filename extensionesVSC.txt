@@ -1,0 +1,17 @@
+Lista de extensiones de VSC recomendadas para iniciar:
+
+1. :emojisense: -> Si pones : te saca una serie de emojis en el html para escoger.
+2. Atom One Dark Theme -> Este es un tema oscuro para el VSC.
+3. Auto Rename Tag -> Si cambiamos el nombre de una etiqueta de apertura, hace que la etiqueta. de cierre tambien cambie.
+4. Better Coments -> Permite colorear los comentarios
+5. Error Lens -> Va a detectar errores y nos va a avisar, no es perfecto, pero ayuda.
+6. Fluent Icons -> Pone lindos los iconos.
+7. Image Preview -> Nos muestra una imagen a pequeña escala de una imagen que usemos en una etiqueta img de html, esto ayuda a comprobar si ese link si trae una imagen o esta roto.
+8. Live Preview o Live Server -> Ayudan a visualizar una pagina y ver sus cambios en tiempo real
+9. Prettier -> Formatea el codigo cuando guardamos los cambios, muy util.
+10. Quokka -> Lo vamos a usar con Javascript, permite ver los console.logs en el mismo archivo.
+11. Symbols o Material Icon -> Ponen bonito los iconos de los archivos, son 2 diferentes, pueden probar y quedarse con el que les guste.
+12. Template string converter -> va a ser util para el M1
+
+Luego vamos a ver que hay mas extensiones utiles para cada modulo.
+Espero te gusten, comparte las que encuentres interesantes :D
